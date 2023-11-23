@@ -10,6 +10,8 @@
 
 ### 💡 Others
 
+- Bump C++ compiler setting to C++20. ([#25548](https://github.com/expo/expo/pull/25548) by [@kudo](https://github.com/kudo))
+
 ## 12.2.1 — 2023-11-18
 
 ### 🐛 Bug fixes
